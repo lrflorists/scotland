@@ -1,0 +1,4 @@
+---
+title: "XOX Glam"
+url: /edinburgh/xox-glam/
+---

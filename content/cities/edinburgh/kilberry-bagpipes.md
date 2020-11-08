@@ -1,0 +1,4 @@
+---
+title: "Kilberry Bagpipes"
+url: /edinburgh/kilberry-bagpipes/
+---

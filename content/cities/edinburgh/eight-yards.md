@@ -1,0 +1,4 @@
+---
+title: "Eight Yards"
+url: /edinburgh/eight-yards/
+---
