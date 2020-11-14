@@ -1,12 +1,12 @@
-id: 33179121
-type: node
+id: 23166980
+type: way
 shop: supermarket
-latitude: 55.944293800000004
-longitude: -3.2047762000000004
-postcode: ""
+latitude: 55.969930100000006
+longitude: -3.1698677
+postcode: "EH6 8HL"
 city: Edinburgh
-street: "Earl Grey Street"
-housenumber: 32
+street: "Duke Street"
+housenumber: 76
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.tesco.com/store-locator/uk/?bID=5150"
+opening_hours: ""
+website: ""

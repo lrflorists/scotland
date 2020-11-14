@@ -1,6 +1,6 @@
 id: 2161252506
 type: node
-shop: jewelry
+shop: hairdresser
 latitude: 55.950808200000004
 longitude: -3.2093728
 postcode: ""
@@ -8,5 +8,5 @@ city: Edinburgh
 street: "Queensferry Street"
 housenumber: 38
 phone: ""
-opening_hours: ""
-website: "http://www.jamesness.co.uk/"
+opening_hours: "Mo-Sa 09:00-19:00; Su 11:00-17:00"
+website: ""

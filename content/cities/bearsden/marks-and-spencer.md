@@ -1,4 +1,4 @@
 ---
-title: "Marks and Spencer"
+title: "Marks & Spencer"
 url: /bearsden/marks-and-spencer/
 ---
