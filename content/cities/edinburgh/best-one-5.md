@@ -1,4 +1,4 @@
 ---
-title: "Best-one"
+title: "Best One"
 url: /edinburgh/best-one-5/
 ---

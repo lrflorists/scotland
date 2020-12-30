@@ -1,6 +1,6 @@
 ---
 title: Westhill
 url: /westhill/
-latitude: 56.630804000000005
-longitude: -3.1253414000000004
+latitude: 58.844216100000004
+longitude: -2.9327102000000003
 ---

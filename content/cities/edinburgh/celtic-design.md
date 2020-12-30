@@ -1,4 +1,4 @@
 ---
-title: "Celtic design"
+title: "Celtic Design"
 url: /edinburgh/celtic-design/
 ---

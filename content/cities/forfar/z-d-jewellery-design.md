@@ -1,4 +1,4 @@
 ---
-title: "Z. D. Jewellery Design"
+title: "Z.D Jewellery Design"
 url: /forfar/z-d-jewellery-design/
 ---

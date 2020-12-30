@@ -1,4 +1,4 @@
 ---
-title: "House of Cashmere"
+title: "House Of Cashmere"
 url: /edinburgh/house-of-cashmere/
 ---
