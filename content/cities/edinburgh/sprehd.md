@@ -1,4 +1,4 @@
 ---
-title: "SprEHD"
+title: "SprEHd"
 url: /edinburgh/sprehd/
 ---
