@@ -1,12 +1,11 @@
-id: 38043139
-type: way
-shop: supermarket
-latitude: 55.989620300000006
-longitude: -3.3992703000000004
+id: 6450407361
+type: node
+latitude: 55.9836255
+longitude: -3.3921978000000004
 postcode: "EH30 9PH"
 city: South Queensferry
-street: "The Load"
-housenumber: 55
+street: "Scotstoun Grove"
+housenumber: 9
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: ""
 website: ""

@@ -1,6 +1,6 @@
 ---
 title: Turriff
 url: /turriff/
-latitude: 57.5375626
-longitude: -2.4634241
+latitude: 57.537482000000004
+longitude: -2.4640839000000003
 ---
