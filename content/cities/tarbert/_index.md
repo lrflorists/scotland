@@ -1,6 +1,6 @@
 ---
 title: Tarbert
 url: /tarbert/
-latitude: 57.0568801
-longitude: -6.556502500000001
+latitude: 55.7025554
+longitude: -5.737323600000001
 ---

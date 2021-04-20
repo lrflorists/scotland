@@ -1,11 +1,11 @@
-id: 41782692
-type: way
-latitude: 55.806666400000005
-longitude: -4.3455941000000005
-postcode: "G53 7RH"
+id: 25239704
+type: node
+latitude: 55.9045946
+longitude: -4.3742811
+postcode: "G15 6RX"
 city: Glasgow
-street: "Darnley Mains Road"
-housenumber: 10
-phone: ""
-opening_hours: ""
-website: "http://www.sainsburys.co.uk"
+street: "Allerdyce Road"
+housenumber: 
+phone: "+441419442841"
+opening_hours: "Su-Fr 08:00-22:00; Sa 07:00-22:00"
+website: "https://stores.sainsburys.co.uk/0523/drumchapel?y_source=1_MTU1Njc4OTYtNzE1LWxvY2F0aW9uLmdvb2dsZV93ZWJzaXRlX292ZXJyaWRl"
