@@ -1,11 +1,11 @@
 id: 6660620836
 type: node
-latitude: 55.924373800000005
-longitude: -3.2775646000000003
+latitude: 55.924367800000006
+longitude: -3.2775498
 postcode: "EH11 4AH"
 city: Edinburgh
 street: "Calder Road"
 housenumber: 339
 phone: "+441312819042"
-opening_hours: "Mo-Sa 10:00-19:00 Su 13:00-18:00"
+opening_hours: "Mo-Sa 10:00-19:00; Su 13:00-18:00"
 website: ""

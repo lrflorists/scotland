@@ -1,5 +1,5 @@
 ---
-title: "Day-Today"
+title: "Day Today"
 url: /glasgow/day-today/
 shop: convenience
 ---

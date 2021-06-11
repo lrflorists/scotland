@@ -1,5 +1,5 @@
 ---
-title: "FOPP"
+title: "Fopp"
 url: /edinburgh/fopp/
 shop: music
 ---

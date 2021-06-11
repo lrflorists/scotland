@@ -1,11 +1,11 @@
 id: 2811427902
 type: node
-latitude: 55.9243862
-longitude: -3.2775001
+latitude: 55.924390700000004
+longitude: -3.2774438000000004
 postcode: "EH11 4AH"
 city: Edinburgh
 street: "Calder Road"
 housenumber: 335-337
 phone: ""
-opening_hours: "Mo-Fr 09:30-22:00 Sa 08:30-22:00 Su 10:00-19:00"
+opening_hours: "Mo-Fr 09:30-22:00; Sa 08:30-22:00; Su 10:00-19:00"
 website: ""
