@@ -1,6 +1,6 @@
 ---
 title: Falkland
 url: /falkland/
-latitude: 56.252459
-longitude: -3.2105425000000003
+latitude: 56.2530979
+longitude: -3.2079837
 ---

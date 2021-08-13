@@ -1,6 +1,6 @@
 ---
 title: Armadale
 url: /armadale/
-latitude: 55.8994106
-longitude: -3.7018799000000002
+latitude: 55.89876700000001
+longitude: -3.7001955000000004
 ---

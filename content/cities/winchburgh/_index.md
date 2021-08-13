@@ -1,6 +1,6 @@
 ---
 title: Winchburgh
 url: /winchburgh/
-latitude: 55.959662800000004
-longitude: -3.4600973
+latitude: 55.9601601
+longitude: -3.4664354000000004
 ---

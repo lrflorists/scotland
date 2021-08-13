@@ -1,11 +1,11 @@
-id: 613409976
-type: way
-latitude: 57.1653534
-longitude: -2.1626337
-postcode: "AB16 7LL"
+id: 8949453298
+type: node
+latitude: 57.167157200000005
+longitude: -2.1243317
+postcode: "AB24 4HA"
 city: Aberdeen
-street: "Byron Square"
-housenumber: 1-4
+street: "Clifton Road"
+housenumber: 270
 phone: ""
-opening_hours: "Mo-Sa 7:00-22:00;Su 8:00-22:00"
+opening_hours: ""
 website: ""

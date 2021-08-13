@@ -1,6 +1,6 @@
 ---
 title: Linlithgow
 url: /linlithgow/
-latitude: 55.9763656
-longitude: -3.6036489
+latitude: 55.977167
+longitude: -3.6006234000000004
 ---
