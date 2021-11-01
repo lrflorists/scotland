@@ -1,11 +1,11 @@
-id: 1525285971
-type: node
-latitude: 55.8573803
-longitude: -4.2426805000000005
-postcode: "G1 1NL"
+id: 10160117
+type: way
+latitude: 55.7638064
+longitude: -4.152737200000001
+postcode: "G74 2AU"
 city: Glasgow
-street: "High Street"
-housenumber: 50
-phone: ""
+street: "St Leonards Road"
+housenumber: 
+phone: "+44 345 6719533"
 opening_hours: ""
-website: "https://www.tesco.com/store-locator/uk/?bID=6353"
+website: "https://www.tesco.com/store-locator/east-kilbride/st-leonards-rd"

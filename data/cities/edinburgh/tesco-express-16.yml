@@ -1,11 +1,11 @@
-id: 282568744
-type: way
-latitude: 55.9024902
-longitude: -3.1551967000000003
-postcode: "EH16 6RS"
+id: 2886864355
+type: node
+latitude: 55.95730090000001
+longitude: -3.1996274000000002
+postcode: "EH3 6JN"
 city: Edinburgh
-street: "Gracemount Drive"
-housenumber: 2
-phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 09:00-20:00"
-website: ""
+street: "Dundas Street"
+housenumber: 30
+phone: "+44 345 610 6732"
+opening_hours: "Mo-Su 06:00-23:00"
+website: "https://www.tesco.com/store-locator/uk/?bID=6871"

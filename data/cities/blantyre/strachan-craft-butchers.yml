@@ -7,5 +7,5 @@ city: Blantyre
 street: "Glasgow Road"
 housenumber: 241
 phone: "+44 1698 591393"
-opening_hours: "Mon-Friday 7am - 4pm, Wed & Sat 7am-3pm. Closed on Sundays"
+opening_hours: "Mo,Tu,Th,Fr 07:00-16:00; We,Sa 07:00-15:00; Su off"
 website: "https://www.strachancraftbutchers.co.uk/"

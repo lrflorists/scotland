@@ -1,11 +1,11 @@
-id: 613409976
-type: way
-latitude: 57.1653534
-longitude: -2.1626337
-postcode: "AB16 7LL"
+id: 8901407007
+type: node
+latitude: 57.13764750000001
+longitude: -2.0881228000000003
+postcode: "AB11 9DT"
 city: Aberdeen
-street: "Byron Square"
-housenumber: 1-4
+street: "Victoria Road"
+housenumber: 80-84
 phone: ""
-opening_hours: "Mo-Sa 7:00-22:00;Su 8:00-22:00"
+opening_hours: ""
 website: ""

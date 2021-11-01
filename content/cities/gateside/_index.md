@@ -1,6 +1,6 @@
 ---
 title: Gateside
 url: /gateside/
-latitude: 55.7479239
-longitude: -4.608984
+latitude: 57.148429400000005
+longitude: -2.2022899000000002
 ---
