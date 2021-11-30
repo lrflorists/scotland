@@ -1,6 +1,6 @@
 ---
 title: Braehead
 url: /braehead/
-latitude: 60.8129822
-longitude: -0.8058318000000001
+latitude: 56.9570281
+longitude: -2.2149991
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /cardenden/tesco-express/
-shop: supermarket
+shop: convenience
 ---

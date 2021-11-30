@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /bridge-of-allan/tesco-express/
-shop: supermarket
+shop: convenience
 ---

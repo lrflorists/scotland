@@ -1,5 +1,5 @@
 ---
 title: "Sirene"
 url: /aberdeen/sirene/
-shop: boutique
+shop: clothes
 ---
